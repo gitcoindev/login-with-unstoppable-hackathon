@@ -7,7 +7,7 @@ SeaHorse
 https://github.com/rdrachenberg/sea-horse/pull/1
 
 ## Recorded video demo of the integration (max. 3 mins)
-![caption](https://github.com/gitcoindev/login-with-unstoppable-hackathon/blob/main/SeaHorseUnstoppableLoginDemo.mp4)
+[!(DemoVideo)](https://github.com/gitcoindev/login-with-unstoppable-hackathon/blob/main/SeaHorseUnstoppableLoginDemo.mp4)
 
 ## Person of contact in case there are any questions
 Korrrba / gitcoiner (at) gmail.com
