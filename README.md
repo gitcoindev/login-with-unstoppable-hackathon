@@ -3,7 +3,7 @@
 ## Project Name
 SeaHorse
 
-## Link to pull request in a public repo
+## Link to pull request in a public repo [merged]!
 https://github.com/rdrachenberg/sea-horse/pull/1
 
 ## Recorded video demo of the integration (max. 3 mins)
